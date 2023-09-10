@@ -40,5 +40,4 @@ these are some few of the insights i got:
 9. Explore automation for routine tasks to improve efficiency.
 
 
-link to the Visualization if you will want to gain more insights
-https://app.powerbi.com/links/zviBq_bKzl?ctid=d0969e52-60cf-4bbe-bafb-93439f446b72&pbi_source=linkShare
+link to the Visualization if you will want to gain more [insights](https://www.novypro.com/project/call-center-trends-analysis-3)
